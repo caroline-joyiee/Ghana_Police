@@ -55,3 +55,11 @@ export const updateStatment = async (req,res) => {
         
     }
 }
+
+export const deleteStatement = async (req,res) => {
+    try {
+        
+    } catch (error) {
+        
+    }
+}
